@@ -1,4 +1,4 @@
-<h3 align="center">Frontend web developer from Iraq</h3>
+<h3 align="center">Frontend software developer from Iraq</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:640/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
 - 👨‍💻 All of my projects are available at [yahyaalmuslih.com](yahyaalmuslih.com)
